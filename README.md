@@ -1,9 +1,9 @@
 # Analyse des ventes pour un e-commerce
  
-Projet N°2 de la formation de Data Analyst OpenClassrooms.
-Ce projet a été créé dans le cadre de la formation de Data Analyst OpenClassrooms. Il vise à démontrer les compétences en matière de choix des bons graphiques pour synthétiser votre analyse des ventes et générez des graphiques avec Excel.
+Ce projet a été créé dans le cadre de la formation de Data Analyst. Il vise à démontrer les compétences en matière de choix des bons graphiques pour synthétiser votre analyse des ventes et générez des graphiques avec Excel.
 
 ## Objectifs pédagogiques
+
 - Synthétiser des résultats à destination d'un client
 - Interpréter les informations provenant d'un dashboard
 - Générer des graphiques adaptés aux types de données
